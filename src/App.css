@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.container_songs li{
+  list-style: none;
+}
+.container_songs{
+border-radius: 20px;
+border: solid black 3px;
+text-align: center;
+}
+.container_fandom{
+text-align: center;
+}
+.container_fandom button{
+border-radius: 10%;
+background-color: blue;
+color: #fff;
+margin: 10px;
+border: none;
+}
+p{
+  font-size: 20px;
+  text-align: center;
+}

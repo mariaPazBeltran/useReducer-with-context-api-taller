@@ -1,2 +1,3 @@
-# useReducer-with-context-api-taller
-Taller que enseña como manejar estados globales con hooks y context api
+# useReducer & useContext
+#### Hooks with Context api - React
+Ejemplo de como utilizar context y hooks para un mejor manejo de estado en nuestra app.
